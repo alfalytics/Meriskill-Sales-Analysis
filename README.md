@@ -7,13 +7,16 @@
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results/Findings](#results/Findings)
-- [Recommendations](#recommendations) 
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitation](#limitation)
   
 
 ### Project Overview💼
 
-This data analysis project aims to provide insights into the sales performance of Meriskill Supermarket over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance. 
+This data analysis project aims to provide insights into the sales performance of Meriskill Supermarket over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
+![SALES](https://github.com/alfalytics/Meriskill-Sales-Analysis/assets/143225371/944308db-e97c-44b6-8b52-74323fc5bc8b)
 
 ### Data Sources
 
@@ -38,7 +41,7 @@ What is the overall sales trend?
 Which products are top sellers? 
 What are the peak sales periods? 
 
-### Results/Findings📖
+### Findings📖
 
 The analysis results are summarized as follows:
 - The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
@@ -53,3 +56,6 @@ Based on the analysis, we recommend the following actions:
 - Implement a customer segmentation strategy to target high-LTV customers effectively. 
 - Customer segments with high lifetime value (LTV) should be targeted for marketing efforts. 
 
+### Limitation
+
+The project timeframe was too short, even though i still managed to deliver it on time.
